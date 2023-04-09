@@ -1,7 +1,0 @@
-69dbe04 (HEAD -> master, origin/master, origin/bug3, bug3) Fix wrong condition in sumEvenNumbers
-7530b00 Merge branch 'bug2'Please enter a commit message to explain why this merge is necessary,
-8ab1f69 (origin/bug2, bug2) Fix wrong condition in filterOddNumbers
-77845da (origin/bug1, bug1) Fix wrong loop for reading
-f9a5115 Fix wrong loop for reading
-cdc8872 Add java class
-24a26a2 initial commit
